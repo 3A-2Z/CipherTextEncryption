@@ -3,4 +3,3 @@ An encrytption program that takes a cipher text and encodes secret messages to a
 
 ## How to run
 The repository contains an executable file but if desired, it may be compiled with the commands gcc 
-file:///home/zell/Pictures/howtorun.png
