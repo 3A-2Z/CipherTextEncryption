@@ -3,5 +3,4 @@ An encrytption program that takes a cipher text and encodes secret messages to a
 
 ## How to run
 The repository contains an executable file but if desired, it may be compiled with the commands gcc encrypt_cipher_text.c -Wall -o encrypt_cipher_text and an executable will be produced. To run the program, enter ./encrypt_cipher_text in the command  line interface of your system to begin the program.
-![running program]
-(https://github.com/3A-2Z/CipherTextEncryption/blob/main/images/1.png)
+![running program](images/1.png)
