@@ -13,5 +13,6 @@ Option two allows the user to enter the secret message and the filename for the 
 
 Option three will decrypt the message however, non-alphabetic characters will be represented by #
 ![running_program4](images/5.png)
-##Dependencies
+
+## Dependencies
 gcc must be installed to run the program.
