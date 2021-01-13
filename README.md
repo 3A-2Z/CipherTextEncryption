@@ -8,5 +8,5 @@ The repository contains an executable file but if desired, it may be compiled wi
 Before a secret message may be entered, the filename of the cipher text used to generate the encryption must be entered first. This can be done by choosing option of the menu screen however, options two or three will forcefully ask for cipher text.
 ![running_program2](images/2.png)
 
-Option two allows the user to enter the secret message and the filename for the encoded text to later be decrypted.
-![running_program3](images/3.png)
+Option two allows the user to enter the secret message and the filename for the encoded text to later be decrypted. The encrytped message will look simmilar to the following message.
+![running_program3](images/4.png)
