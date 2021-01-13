@@ -10,3 +10,8 @@ Before a secret message may be entered, the filename of the cipher text used to 
 
 Option two allows the user to enter the secret message and the filename for the encoded text to later be decrypted. The encrytped message will look simmilar to the following message.
 ![running_program3](images/4.png)
+
+Option three will decrypt the message however, non-alphabetic characters will be represented by #
+![running_program4](images/5.png)
+##Dependencies
+gcc must be installed to run the program.
